@@ -24,21 +24,22 @@ banyak_data = [makanan_1, makanan_2, makanan_3, makanan_4, makanan_5, makanan_6,
 
 print(banyak_data)
 
-rata_rata = total_bayar / (len(banyak_data))
-
-print(rata_rata)
-
 nim = 51
 
 print(nim)
+
+konversi_EUR = 5.77
+
+print(konversi_EUR)
+
+rata_rata = total_bayar / (len(banyak_data))
+
+print(rata_rata)
 
 bolean = nim != rata_rata
 
 print(bolean)
 
-konversi_EUR = 5.77
-
-print(konversi_EUR)
 
 
 
