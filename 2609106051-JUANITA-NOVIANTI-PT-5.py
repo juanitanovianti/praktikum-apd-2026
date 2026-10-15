@@ -263,8 +263,7 @@ while True:
                     elif menu == "2":
                         print("\nBerhasil Logout Dari Akun User.")
                         input("Tekan Enter Untuk Kembali ke Menu Utama. . . ")
-                        break
-
+                        break   
                     else:
                         print("\nPilihan Tidak Valid. Silakan Pilih Menu 1-2.")
                         input("Tekan Enter Untuk Melanjutkan. . . ")
